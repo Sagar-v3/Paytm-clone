@@ -8,7 +8,7 @@ It has the following  features -
 - user can intiate a transfer
 - user can see their remaining account balance in their dashboard
 
-Whenever a new user sign up they will be assigned with random dummy money between 1 - 1000 INR to thier account balance.
+Whenever a new user sign up they will be assigned with random dummy money between 1 - 10000 INR to thier account balance.
 After signing up or signing in, a user can transfer money to their friends.
 
 In this project - 
